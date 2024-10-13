@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srish-1&" alt="srish-1" /></p>
 
-👋 Hi, I’m Srishti Sharma, a passionate Data Scientist with a solid background in financial data science, machine learning, and data visualization. I am currently pursuing an MSc. in Financial Data Science at University College Dublin, where I dive deep into quantitative finance, derivative security, and ethics in finance. My core expertise spans across Python, SQL, and cloud services such as AWS and Azure, with a focus on creating impactful, data-driven solutions.
+ A passionate Data Scientist with a solid background in financial data science, machine learning, and data visualization. I am currently pursuing an MSc. in Financial Data Science at University College Dublin, where I dive deep into quantitative finance, derivative security, and ethics in finance. My core expertise spans across Python, SQL, and cloud services such as AWS and Azure, with a focus on creating impactful, data-driven solutions.
 
 🚀 I bring hands-on experience with a wide range of programming languages and tools:
 
