@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srish-1&label=Profile%20views&color=0e75b6&style=flat" alt="srish-1" /> </p>
 
-- 🔭 I’m currently working on **Real Estate Investment Tool**
+- 🔭 I’m currently working as **Product Analyst**
 
-- 🌱 I’m currently learning **Advanced Machine Learning Frameworks like TensorFlow, PyTorch, and LLM Techniques (LangChain, GPT)**
+- 🌱 I’m know **Advanced Machine Learning Frameworks like TensorFlow, PyTorch, and LLM Techniques (LangChain, GPT)**
 
 - 💬 Ask me about **Machine Learning, Data Science, NLP, and Data Visualization**
 
-- 📫 How to reach me **srishtisharma3066@gmail.com**
+- 📫 How to reach me **sharmasrishti106@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srish-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srish-sharma/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srish-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srish-sharma/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
